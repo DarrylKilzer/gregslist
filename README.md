@@ -25,7 +25,7 @@ var car = {
 ## Jobs
 All jobs look like:
 
-var car = {
+var job = {
 
 company: "Microsoft",
 
@@ -42,7 +42,7 @@ description: "This one is optional"
 ## Houses
 All houses look like:
 
-var houses = {
+var house = {
 
 bedrooms: 4,
 
