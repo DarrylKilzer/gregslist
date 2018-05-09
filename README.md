@@ -4,6 +4,9 @@ A project that displays and creates cars, jobs, and houses.
 These objects must follow a particular model as follows in order to successfully create new objects of a type.
 
 ## Cars
+
+https://bcw-gregslist.herokuapp.com/api/cars
+
 All cars must look like: 
 
 var car = {
@@ -23,6 +26,9 @@ var car = {
 }
 
 ## Jobs
+
+https://bcw-gregslist.herokuapp.com/api/jobs
+
 All jobs look like:
 
 var job = {
@@ -40,6 +46,9 @@ description: "This one is optional"
 }
 
 ## Houses
+
+https://bcw-gregslist.herokuapp.com/api/houses
+
 All houses look like:
 
 var house = {
