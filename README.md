@@ -3,6 +3,18 @@
 A project that displays and creates cars, jobs, and houses.
 These objects must follow a particular model as follows in order to successfully create new objects of a type.
 
+#### Get all
+https://bcw-gregslist.herokuapp.com/api/cars
+
+#### Post
+https://bcw-gregslist.herokuapp.com/api/cars
+
+#### Update
+https://bcw-gregslist.herokuapp.com/api/cars/:ID
+
+#### Delete
+https://bcw-gregslist.herokuapp.com/api/cars/:ID
+
 ## Cars
 
 https://bcw-gregslist.herokuapp.com/api/cars
